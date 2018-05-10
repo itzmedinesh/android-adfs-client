@@ -1,6 +1,9 @@
 # android-adfs-client
 Android java client for authentication against active directory federation service(ADFS) - JWT,BST
 
+# Versions on maven
+http://central.maven.org/maven2/com/github/itzmedinesh/android-adfs-client/
+
 # Create ADFS SignOn request
 *********************************************************************
 
